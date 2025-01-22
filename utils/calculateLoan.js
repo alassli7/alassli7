@@ -25,22 +25,7 @@ export const calculateTotalAmount = (amount, interestRate) => {
   // حساب المجموع الكلي
   return amount + interestAmount;
 };
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+ 
   
   
   
