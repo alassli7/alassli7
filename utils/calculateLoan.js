@@ -50,7 +50,6 @@ export const calculateTotalAmount = (amount, interestRate) => {
   
   
   
-  
   mount * interestRate) / 100;
   const totalAmount = amount + interestAmount;
   return totalAmount;
